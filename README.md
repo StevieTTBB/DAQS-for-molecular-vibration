@@ -12,4 +12,4 @@ Websites maybe helpful:
 
 ## OpenFermion
 Websites maybe helpful:
-  *Introduction to OpenFermion, https://colab.research.google.com/github/quantumlib/OpenFermion/blob/master/docs/tutorials/intro_to_openfermion.ipynb#scrollTo=8fbd165dd6a0
+  * Introduction to OpenFermion, https://colab.research.google.com/github/quantumlib/OpenFermion/blob/master/docs/tutorials/intro_to_openfermion.ipynb#scrollTo=8fbd165dd6a0
