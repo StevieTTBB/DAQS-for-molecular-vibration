@@ -28,6 +28,8 @@ Websites maybe helpful:
       * 水溶液中结合水的定义与量化, https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.68.20181742
       * 水合物研制、结构与性能及其在能源环境中的应用, https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.68.20181639
     * Viscosity
+      * Macroscopic behaviours, e.g. ordered geometric pattern when being continously poured from a container
+        * The O-H seems always be highly correlated with special, strange, attracitve, potentially and pratically applicable properties of H<sub>2</sub>O; thus, if we could simulate the coupling, transportation and dissipation for energy within O-H, it may provide a valuable perspective to explain those macroscopic phenomena. The ordered geometric pattern could be a case here.
 
   * High/Large molecules simulations
     *  **AIMD**<br>
