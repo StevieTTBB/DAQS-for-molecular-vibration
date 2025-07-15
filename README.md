@@ -1,5 +1,6 @@
 # DAQS-for-molecular-vibration
-Store and share files and articles, etc. for teamworks.
+This repo is aimed to store and share files and articles, etc.<br> 
+*Built for teamwork, designed to go beyond.*
 
 The aim of our project is using DAQS to have a simulation for molecular systems, e.g. H<sub>2</sub>O<br>
 Currently, `OpenFermion` and `QuTip` are planned to be used.
@@ -11,7 +12,7 @@ Websites maybe helpful:
   * The webpage of *J. R. Johansson*, the author of *Tutorials for QuTiP Version 5*, https://jrjohansson.github.io/computing.html
 
 QutipTutorialsNotes:
-  * [QutipTutorialsNotes](./QutipTutorialsNotes) is a folder including tutorials of QuTip with notes wrote by GY H.
+  * [QutipTutorialsNotes](./QutipTutorialsNotes) is a folder including tutorials of QuTip with notes written by GY H.
 
 ## OpenFermion
 Websites maybe helpful:
