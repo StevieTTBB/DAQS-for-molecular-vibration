@@ -10,6 +10,9 @@ Websites maybe helpful:
   * Tutorials for QuTiP Version 5, https://qutip.org/try-qutip/lab/index.html
   * The webpage of *J. R. Johansson*, the author of *Tutorials for QuTiP Version 5*, https://jrjohansson.github.io/computing.html
 
+QutipTutorialsNotes:
+  * [QutipTutorialsNotes](./QutipTutorialsNotes) is a folder including tutorials of QuTip with notes wrote by GY H.
+
 ## OpenFermion
 Websites maybe helpful:
   * Introduction to OpenFermion, https://colab.research.google.com/github/quantumlib/OpenFermion/blob/master/docs/tutorials/intro_to_openfermion.ipynb#scrollTo=8fbd165dd6a0
