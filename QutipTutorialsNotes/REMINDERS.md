@@ -6,4 +6,4 @@ covered by later lectures.
 * `1Lecture-1-Jaynes-Cumming-model.ipynb` and `1Lecture-3B-Jaynes-Cumming-model-with-ultrastrong-coupling.ipynb` discuss about JC model
 from initial states preparation, time evolution and corresponding visualiztion, etc. These two lectures may quite helpful, if we plan to
 use JC model acting as a part of our simuation project.
-* `Lecture-3B, 4, 6` includes some notes, perspectives (some required verification) and questions.
+* `Lecture-3B, 4, 6` include some notes, perspectives (some required verification) and questions.
