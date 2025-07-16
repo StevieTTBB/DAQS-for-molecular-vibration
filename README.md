@@ -41,4 +41,7 @@ Websites maybe helpful:
        * 2024年戈登·贝尔奖授予量子分子动力学模拟团队, https://ecas.cas.cn/xxkw/kbcd/201115_146563/ml/xxhcxyyyal/202412/t20241219_5042989.html
        * Game-changing quantum chemistry calculations on Frontier earn Gordon Bell Prize, https://www.ornl.gov/news/game-changing-quantum-chemistry-calculations-frontier-earn-gordon-bell-prize
        * Breaking the Million-Electron and 1 EFLOP/s Barriers: Biomolecular-Scale Ab Initio Molecular Dynamics Using MP2 Potentials, https://arxiv.org/abs/2410.21888
+
+## demo
+* [H2 Model Simulation written by GX W.ipynb](demo/H2%20Model%20Simulation%20written%20by%20GX%20W.ipynb) is a demo about a simulation of H<sub>2</sub> written by GX W.
     
