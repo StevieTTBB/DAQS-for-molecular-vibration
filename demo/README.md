@@ -1,1 +1,1 @@
-This foler will contains our demos.
+This folder will contains some demos.
